@@ -1,7 +1,7 @@
 #!/bin/bash
 set -exu
 set -o pipefail
-
+ 
 # Whether python3 has been installed on the system
 PYTHON_INSTALLED=true
 
